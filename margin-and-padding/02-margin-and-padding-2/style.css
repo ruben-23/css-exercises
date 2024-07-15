@@ -13,8 +13,8 @@ body {
 
 .title {
   background: #e3f4ff;
-  padding: 10px;
-  font-size: 20px;
+  padding: 8px;
+  font-size: 16px;
   margin: 0px 10px;
 }
 
@@ -24,13 +24,13 @@ div {
 
 .content {
   background: #e3f4ff;
-  padding: 20px 10px;
+  padding: 16px 8px;
   
 }
 
 .button-container {
   background: #e3f4ff;
-  padding: 10px;
+  padding: 8px;
   text-align: center;
 }
 
@@ -39,5 +39,5 @@ button {
   border: 1px solid #eee;
   display: block;
   margin: 0 auto;
-  padding: 10px 20px;
+  padding: 8px 24px;
 }
