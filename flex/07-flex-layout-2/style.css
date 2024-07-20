@@ -71,8 +71,11 @@ a {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   width: 350px;
-  height: 300px;;
+  
   padding: 16px;
+
+  flex-wrap: wrap;
+
 }
 
 .content {
@@ -81,11 +84,11 @@ a {
 }
 
 .cards {
-  /* flex: 2 1 auto; */
   display: flex;
   flex-wrap: wrap;
   padding: 50px;
   justify-content: flex-start;
-  width: 1500px;
-  gap: 48px 48px;
+ 
+  gap: 32px 32px;
+  padding: 48px;
 }
