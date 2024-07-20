@@ -44,22 +44,18 @@ body {
 }
 
 .content {
-
   display: flex;
   flex-direction: column;
 
 }
 
-.header {
-  font-weight: 900;
-  font-size: large;
-  align-self: center;
-  
-}
-
 .header-items {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  font-weight: 900;
+  font-size: large;
+
 }
 
 .text {
